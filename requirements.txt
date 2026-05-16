@@ -1,0 +1,2 @@
+# Proektut ne izpolzva vunshni biblioteki.
+# Izpolzva se samo standartniqt Python.
